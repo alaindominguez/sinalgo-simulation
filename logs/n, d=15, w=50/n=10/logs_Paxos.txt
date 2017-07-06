@@ -1,0 +1,10 @@
+Time: 192 Leader: 3 commiting transaction operation 3_1
+Time: 212 Leader: 3 commiting transaction operation 3_2
+Time: 232 Leader: 3 commiting transaction operation 3_3
+Time: 252 Leader: 3 commiting transaction operation 3_4
+Time: 272 Leader: 3 commiting transaction operation 3_5
+Time: 353 Leader: 4 commiting transaction operation 4_1
+Time: 454 Leader: 5 commiting transaction operation 5_1
+Time: 498 Leader: 9 commiting transaction operation 3_6
+Time: 776 Leader: 7 commiting transaction operation 7_1
+Time: 837 Leader: 8 commiting transaction operation 8_1

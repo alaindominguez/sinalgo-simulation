@@ -1,0 +1,1 @@
+sinalgo -batch -project sample1 -gen 30 sample1:Paxos Random C=UDG M=RandomWayPoint -rounds 1000 -overwrite mobility=true interference=false

@@ -1,0 +1,4 @@
+Time: 72 Leader: 13 commiting transaction operation 8_1
+Time: 92 Leader: 13 commiting transaction operation 13_2
+Time: 112 Leader: 13 commiting transaction operation 13_3
+Time: 132 Leader: 13 commiting transaction operation 13_4

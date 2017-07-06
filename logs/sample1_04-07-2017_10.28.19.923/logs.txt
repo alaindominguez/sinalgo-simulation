@@ -1,0 +1,1274 @@
+executed
+time: 1 group number: 12 leader count: 20
+time: 2 group number: 11 leader count: 20
+time: 3 group number: 11 leader count: 20
+time: 4 group number: 11 leader count: 20
+time: 5 group number: 11 leader count: 20
+executed
+time: 6 group number: 11 leader count: 20
+time: 7 group number: 9 leader count: 20
+time: 8 group number: 9 leader count: 20
+time: 9 group number: 9 leader count: 20
+nodo: 1 --> [7, 11, 19, 2, 5, 18]
+time: 10 group number: 10 leader count: 20
+executed
+time: 11 group number: 10 leader count: 20
+time: 12 group number: 10 leader count: 20
+time: 13 group number: 10 leader count: 18
+time: 14 group number: 11 leader count: 18
+time: 15 group number: 11 leader count: 18
+executed
+time: 16 group number: 10 leader count: 18
+time: 17 group number: 9 leader count: 18
+time: 18 group number: 9 leader count: 18
+time: 19 group number: 7 leader count: 18
+time: 20 group number: 6 leader count: 18
+executed
+time: 21 group number: 6 leader count: 18
+time: 22 group number: 6 leader count: 18
+time: 23 group number: 6 leader count: 18
+time: 24 group number: 6 leader count: 18
+time: 25 group number: 6 leader count: 18
+executed
+time: 26 group number: 5 leader count: 18
+time: 27 group number: 3 leader count: 18
+time: 28 group number: 4 leader count: 18
+time: 29 group number: 5 leader count: 18
+time: 30 group number: 5 leader count: 18
+nodo: 5 --> [11, 20, 14, 9, 6, 7]
+executed
+time: 31 group number: 4 leader count: 18
+time: 32 group number: 4 leader count: 18
+time: 33 group number: 3 leader count: 16
+time: 34 group number: 3 leader count: 15
+time: 35 group number: 3 leader count: 15
+nodo: 6 --> [9, 19]
+executed
+time: 36 group number: 5 leader count: 14
+time: 37 group number: 6 leader count: 14
+time: 38 group number: 6 leader count: 14
+time: 39 group number: 5 leader count: 14
+time: 40 group number: 5 leader count: 14
+time: 41 group number: 4 leader count: 14
+time: 42 group number: 4 leader count: 14
+time: 43 group number: 4 leader count: 14
+time: 44 group number: 4 leader count: 14
+time: 45 group number: 5 leader count: 14
+recover 6
+nodo: 8 --> [1, 3, 4, 6, 5, 17, 10, 16]
+executed
+time: 46 group number: 5 leader count: 14
+time: 47 group number: 5 leader count: 13
+time: 48 group number: 5 leader count: 9
+time: 49 group number: 5 leader count: 7
+time: 50 group number: 5 leader count: 7
+time: 51 group number: 5 leader count: 7
+time: 52 group number: 5 leader count: 7
+time: 53 group number: 5 leader count: 7
+time: 54 group number: 5 leader count: 7
+time: 55 group number: 5 leader count: 7
+executed
+time: 56 group number: 5 leader count: 7
+time: 57 group number: 5 leader count: 7
+time: 58 group number: 5 leader count: 7
+time: 59 group number: 5 leader count: 7
+time: 60 group number: 5 leader count: 7
+executed
+time: 61 group number: 5 leader count: 7
+time: 62 group number: 5 leader count: 7
+time: 63 group number: 5 leader count: 7
+time: 64 group number: 5 leader count: 7
+time: 65 group number: 5 leader count: 7
+nodo: 12 --> [15]
+time: 66 group number: 5 leader count: 7
+time: 67 group number: 5 leader count: 7
+time: 68 group number: 5 leader count: 6
+time: 69 group number: 5 leader count: 6
+time: 70 group number: 5 leader count: 6
+nodo: 13 --> [8]
+time: 71 group number: 5 leader count: 6
+time: 72 group number: 5 leader count: 6
+time: 73 group number: 5 leader count: 5
+time: 74 group number: 5 leader count: 5
+time: 75 group number: 5 leader count: 5
+time: 76 group number: 5 leader count: 5
+time: 77 group number: 5 leader count: 5
+time: 78 group number: 5 leader count: 5
+time: 79 group number: 5 leader count: 5
+time: 80 group number: 5 leader count: 5
+time: 81 group number: 5 leader count: 5
+time: 82 group number: 5 leader count: 5
+time: 83 group number: 5 leader count: 5
+time: 84 group number: 5 leader count: 5
+time: 85 group number: 5 leader count: 5
+time: 86 group number: 5 leader count: 5
+time: 87 group number: 5 leader count: 5
+time: 88 group number: 5 leader count: 5
+time: 89 group number: 5 leader count: 5
+time: 90 group number: 5 leader count: 5
+executed
+time: 91 group number: 5 leader count: 5
+time: 92 group number: 5 leader count: 5
+time: 93 group number: 5 leader count: 5
+time: 94 group number: 5 leader count: 5
+time: 95 group number: 5 leader count: 5
+time: 96 group number: 5 leader count: 5
+time: 97 group number: 5 leader count: 5
+time: 98 group number: 5 leader count: 5
+time: 99 group number: 5 leader count: 5
+time: 100 group number: 5 leader count: 5
+time: 101 group number: 5 leader count: 5
+time: 102 group number: 5 leader count: 5
+time: 103 group number: 5 leader count: 5
+time: 104 group number: 5 leader count: 5
+time: 105 group number: 5 leader count: 5
+time: 106 group number: 5 leader count: 5
+time: 107 group number: 5 leader count: 5
+time: 108 group number: 5 leader count: 5
+time: 109 group number: 4 leader count: 5
+time: 110 group number: 5 leader count: 5
+time: 111 group number: 6 leader count: 5
+time: 112 group number: 7 leader count: 5
+time: 113 group number: 7 leader count: 5
+time: 114 group number: 6 leader count: 5
+time: 115 group number: 5 leader count: 5
+time: 116 group number: 4 leader count: 5
+time: 117 group number: 5 leader count: 5
+time: 118 group number: 5 leader count: 5
+time: 119 group number: 7 leader count: 5
+time: 120 group number: 8 leader count: 5
+executed
+time: 121 group number: 8 leader count: 5
+time: 122 group number: 9 leader count: 5
+time: 123 group number: 9 leader count: 5
+time: 124 group number: 9 leader count: 5
+time: 125 group number: 10 leader count: 5
+time: 126 group number: 11 leader count: 5
+time: 127 group number: 11 leader count: 5
+time: 128 group number: 11 leader count: 5
+time: 129 group number: 11 leader count: 5
+13 Coordinador no encontrado node: 1 time: 130
+time: 130 group number: 11 leader count: 6
+13 Coordinador no encontrado node: 2 time: 130
+nodo: 5 --> [13, 12]
+13 Coordinador no encontrado node: 6 time: 130
+executed
+13 Coordinador no encontrado node: 9 time: 130
+5 Coordinador no encontrado node: 14 time: 130
+12 Coordinador no encontrado node: 15 time: 130
+13 Coordinador no encontrado node: 16 time: 130
+13 Coordinador no encontrado node: 18 time: 130
+5 Coordinador no encontrado node: 20 time: 130
+time: 131 group number: 10 leader count: 14
+time: 132 group number: 10 leader count: 14
+time: 133 group number: 12 leader count: 14
+time: 134 group number: 12 leader count: 14
+time: 135 group number: 12 leader count: 14
+time: 136 group number: 12 leader count: 14
+time: 137 group number: 13 leader count: 14
+time: 138 group number: 13 leader count: 14
+time: 139 group number: 14 leader count: 14
+time: 140 group number: 14 leader count: 14
+recover 5
+executed
+time: 141 group number: 13 leader count: 14
+time: 142 group number: 12 leader count: 14
+time: 143 group number: 11 leader count: 14
+time: 144 group number: 11 leader count: 14
+time: 145 group number: 12 leader count: 14
+time: 146 group number: 12 leader count: 14
+time: 147 group number: 12 leader count: 14
+time: 148 group number: 12 leader count: 14
+time: 149 group number: 13 leader count: 14
+time: 150 group number: 12 leader count: 14
+13 Coordinador no encontrado node: 3 time: 150
+13 Coordinador no encontrado node: 8 time: 150
+13 Coordinador no encontrado node: 10 time: 150
+5 Coordinador no encontrado node: 11 time: 150
+executed
+13 Coordinador no encontrado node: 17 time: 150
+time: 151 group number: 14 leader count: 19
+time: 152 group number: 14 leader count: 19
+time: 153 group number: 14 leader count: 19
+time: 154 group number: 14 leader count: 19
+time: 155 group number: 13 leader count: 19
+executed
+time: 156 group number: 13 leader count: 19
+time: 157 group number: 14 leader count: 19
+time: 158 group number: 14 leader count: 19
+time: 159 group number: 14 leader count: 19
+time: 160 group number: 15 leader count: 19
+nodo: 11 --> [1]
+executed
+time: 161 group number: 15 leader count: 19
+time: 162 group number: 14 leader count: 18
+time: 163 group number: 14 leader count: 18
+time: 164 group number: 15 leader count: 18
+time: 165 group number: 14 leader count: 18
+executed
+time: 166 group number: 14 leader count: 18
+time: 167 group number: 14 leader count: 18
+time: 168 group number: 14 leader count: 18
+time: 169 group number: 14 leader count: 18
+time: 170 group number: 14 leader count: 18
+13 Coordinador no encontrado node: 4 time: 170
+nodo: 13 --> [10]
+executed
+time: 171 group number: 14 leader count: 19
+time: 172 group number: 14 leader count: 19
+time: 173 group number: 14 leader count: 19
+time: 174 group number: 14 leader count: 19
+time: 175 group number: 14 leader count: 19
+executed
+time: 176 group number: 14 leader count: 19
+time: 177 group number: 14 leader count: 19
+time: 178 group number: 14 leader count: 19
+time: 179 group number: 14 leader count: 19
+time: 180 group number: 14 leader count: 19
+recover 13
+executed
+time: 181 group number: 14 leader count: 19
+time: 182 group number: 14 leader count: 19
+time: 183 group number: 14 leader count: 19
+time: 184 group number: 14 leader count: 19
+time: 185 group number: 14 leader count: 19
+nodo: 16 --> [3, 13]
+executed
+time: 186 group number: 14 leader count: 19
+time: 187 group number: 14 leader count: 19
+time: 188 group number: 14 leader count: 18
+time: 189 group number: 14 leader count: 17
+time: 190 group number: 14 leader count: 17
+executed
+time: 191 group number: 14 leader count: 17
+time: 192 group number: 14 leader count: 17
+time: 193 group number: 14 leader count: 17
+time: 194 group number: 14 leader count: 17
+time: 195 group number: 14 leader count: 17
+nodo: 18 --> [4]
+executed
+time: 196 group number: 14 leader count: 17
+time: 197 group number: 14 leader count: 17
+time: 198 group number: 14 leader count: 16
+time: 199 group number: 14 leader count: 16
+time: 200 group number: 14 leader count: 16
+time: 201 group number: 14 leader count: 16
+time: 202 group number: 14 leader count: 16
+time: 203 group number: 14 leader count: 16
+time: 204 group number: 14 leader count: 16
+time: 205 group number: 14 leader count: 16
+executed
+time: 206 group number: 14 leader count: 16
+time: 207 group number: 14 leader count: 16
+time: 208 group number: 14 leader count: 16
+time: 209 group number: 14 leader count: 16
+time: 210 group number: 14 leader count: 16
+time: 211 group number: 14 leader count: 16
+time: 212 group number: 14 leader count: 16
+time: 213 group number: 14 leader count: 16
+time: 214 group number: 14 leader count: 16
+time: 215 group number: 14 leader count: 16
+nodo: 2 --> [9]
+time: 216 group number: 14 leader count: 16
+time: 217 group number: 14 leader count: 16
+time: 218 group number: 14 leader count: 15
+time: 219 group number: 14 leader count: 15
+time: 220 group number: 14 leader count: 15
+executed
+time: 221 group number: 14 leader count: 15
+time: 222 group number: 14 leader count: 15
+time: 223 group number: 14 leader count: 15
+time: 224 group number: 14 leader count: 15
+time: 225 group number: 14 leader count: 15
+executed
+time: 226 group number: 15 leader count: 15
+time: 227 group number: 15 leader count: 15
+time: 228 group number: 14 leader count: 15
+time: 229 group number: 13 leader count: 15
+time: 230 group number: 14 leader count: 15
+executed
+time: 231 group number: 14 leader count: 15
+time: 232 group number: 14 leader count: 15
+time: 233 group number: 14 leader count: 15
+time: 234 group number: 14 leader count: 15
+time: 235 group number: 15 leader count: 15
+executed
+time: 236 group number: 13 leader count: 15
+time: 237 group number: 13 leader count: 15
+time: 238 group number: 13 leader count: 15
+time: 239 group number: 12 leader count: 15
+time: 240 group number: 11 leader count: 15
+time: 241 group number: 10 leader count: 15
+time: 242 group number: 12 leader count: 15
+time: 243 group number: 12 leader count: 15
+time: 244 group number: 11 leader count: 15
+time: 245 group number: 11 leader count: 15
+nodo: 8 --> [10, 15]
+executed
+time: 246 group number: 13 leader count: 15
+time: 247 group number: 11 leader count: 15
+time: 248 group number: 11 leader count: 14
+time: 249 group number: 13 leader count: 14
+11 Coordinador no encontrado node: 1 time: 250
+time: 250 group number: 13 leader count: 15
+18 Coordinador no encontrado node: 4 time: 250
+2 Coordinador no encontrado node: 9 time: 250
+executed
+time: 251 group number: 13 leader count: 17
+time: 252 group number: 13 leader count: 17
+time: 253 group number: 13 leader count: 17
+time: 254 group number: 12 leader count: 17
+time: 255 group number: 13 leader count: 17
+recover 8
+executed
+time: 256 group number: 13 leader count: 17
+time: 257 group number: 14 leader count: 17
+time: 258 group number: 14 leader count: 17
+time: 259 group number: 15 leader count: 17
+time: 260 group number: 16 leader count: 17
+time: 261 group number: 16 leader count: 17
+time: 262 group number: 16 leader count: 17
+time: 263 group number: 15 leader count: 17
+time: 264 group number: 15 leader count: 17
+time: 265 group number: 15 leader count: 17
+nodo: 12 --> [2, 4]
+executed
+time: 266 group number: 16 leader count: 17
+time: 267 group number: 14 leader count: 17
+time: 268 group number: 15 leader count: 16
+time: 269 group number: 15 leader count: 16
+time: 270 group number: 15 leader count: 16
+16 Coordinador no encontrado node: 3 time: 270
+8 Coordinador no encontrado node: 10 time: 270
+16 Coordinador no encontrado node: 13 time: 270
+executed
+time: 271 group number: 16 leader count: 19
+time: 272 group number: 16 leader count: 19
+time: 273 group number: 16 leader count: 19
+time: 274 group number: 16 leader count: 19
+time: 275 group number: 16 leader count: 19
+executed
+time: 276 group number: 16 leader count: 19
+time: 277 group number: 16 leader count: 19
+time: 278 group number: 15 leader count: 19
+time: 279 group number: 15 leader count: 19
+time: 280 group number: 15 leader count: 19
+nodo: 15 --> [9]
+executed
+time: 281 group number: 15 leader count: 19
+time: 282 group number: 15 leader count: 19
+time: 283 group number: 15 leader count: 18
+time: 284 group number: 15 leader count: 18
+time: 285 group number: 15 leader count: 18
+executed
+time: 286 group number: 15 leader count: 18
+time: 287 group number: 15 leader count: 18
+time: 288 group number: 15 leader count: 18
+time: 289 group number: 15 leader count: 18
+time: 290 group number: 15 leader count: 18
+nodo: 17 --> [4]
+executed
+time: 291 group number: 15 leader count: 18
+time: 292 group number: 15 leader count: 18
+time: 293 group number: 15 leader count: 17
+time: 294 group number: 15 leader count: 17
+time: 295 group number: 15 leader count: 17
+executed
+time: 296 group number: 15 leader count: 17
+time: 297 group number: 15 leader count: 17
+time: 298 group number: 15 leader count: 17
+time: 299 group number: 15 leader count: 17
+executed
+time: 300 group number: 15 leader count: 17
+time: 301 group number: 15 leader count: 17
+time: 302 group number: 15 leader count: 17
+time: 303 group number: 15 leader count: 17
+time: 304 group number: 15 leader count: 17
+time: 305 group number: 15 leader count: 17
+nodo: 20 --> [1, 7]
+time: 306 group number: 15 leader count: 17
+time: 307 group number: 15 leader count: 16
+time: 308 group number: 15 leader count: 15
+time: 309 group number: 15 leader count: 15
+time: 310 group number: 15 leader count: 15
+executed
+time: 311 group number: 15 leader count: 15
+time: 312 group number: 15 leader count: 15
+time: 313 group number: 15 leader count: 15
+time: 314 group number: 15 leader count: 15
+time: 315 group number: 15 leader count: 15
+time: 316 group number: 15 leader count: 15
+time: 317 group number: 15 leader count: 15
+time: 318 group number: 15 leader count: 15
+time: 319 group number: 15 leader count: 15
+time: 320 group number: 15 leader count: 15
+executed
+time: 321 group number: 15 leader count: 15
+time: 322 group number: 15 leader count: 15
+time: 323 group number: 15 leader count: 15
+time: 324 group number: 15 leader count: 15
+time: 325 group number: 15 leader count: 15
+executed
+time: 326 group number: 15 leader count: 15
+time: 327 group number: 15 leader count: 15
+time: 328 group number: 15 leader count: 15
+time: 329 group number: 15 leader count: 15
+time: 330 group number: 15 leader count: 15
+time: 331 group number: 15 leader count: 15
+time: 332 group number: 15 leader count: 15
+time: 333 group number: 16 leader count: 15
+time: 334 group number: 16 leader count: 15
+time: 335 group number: 16 leader count: 15
+executed
+time: 336 group number: 15 leader count: 15
+time: 337 group number: 15 leader count: 15
+time: 338 group number: 15 leader count: 15
+time: 339 group number: 15 leader count: 15
+time: 340 group number: 15 leader count: 15
+time: 341 group number: 14 leader count: 15
+time: 342 group number: 14 leader count: 15
+time: 343 group number: 14 leader count: 15
+time: 344 group number: 14 leader count: 15
+time: 345 group number: 15 leader count: 15
+executed
+time: 346 group number: 14 leader count: 15
+time: 347 group number: 14 leader count: 15
+time: 348 group number: 14 leader count: 15
+time: 349 group number: 14 leader count: 15
+time: 350 group number: 14 leader count: 15
+12 Coordinador no encontrado node: 2 time: 350
+executed
+time: 351 group number: 14 leader count: 16
+time: 352 group number: 13 leader count: 16
+time: 353 group number: 14 leader count: 16
+time: 354 group number: 16 leader count: 16
+time: 355 group number: 16 leader count: 16
+nodo: 10 --> [12, 8]
+executed
+time: 356 group number: 16 leader count: 16
+time: 357 group number: 14 leader count: 16
+time: 358 group number: 14 leader count: 16
+time: 359 group number: 15 leader count: 16
+time: 360 group number: 15 leader count: 16
+executed
+time: 361 group number: 15 leader count: 16
+time: 362 group number: 15 leader count: 16
+time: 363 group number: 15 leader count: 16
+time: 364 group number: 16 leader count: 16
+time: 365 group number: 15 leader count: 16
+recover 10
+executed
+time: 366 group number: 15 leader count: 16
+time: 367 group number: 15 leader count: 16
+time: 368 group number: 15 leader count: 16
+time: 369 group number: 15 leader count: 16
+20 Coordinador no encontrado node: 1 time: 370
+time: 370 group number: 15 leader count: 17
+20 Coordinador no encontrado node: 7 time: 370
+15 Coordinador no encontrado node: 9 time: 370
+executed
+time: 371 group number: 15 leader count: 19
+time: 372 group number: 14 leader count: 19
+time: 373 group number: 15 leader count: 19
+time: 374 group number: 14 leader count: 19
+time: 375 group number: 14 leader count: 19
+executed
+time: 376 group number: 14 leader count: 19
+time: 377 group number: 15 leader count: 19
+time: 378 group number: 15 leader count: 19
+time: 379 group number: 15 leader count: 19
+time: 380 group number: 17 leader count: 19
+nodo: 15 --> [19]
+executed
+time: 381 group number: 18 leader count: 19
+time: 382 group number: 18 leader count: 19
+time: 383 group number: 17 leader count: 19
+time: 384 group number: 16 leader count: 19
+time: 385 group number: 14 leader count: 19
+executed
+time: 386 group number: 14 leader count: 19
+time: 387 group number: 13 leader count: 19
+time: 388 group number: 14 leader count: 19
+time: 389 group number: 14 leader count: 19
+time: 390 group number: 14 leader count: 19
+17 Coordinador no encontrado node: 4 time: 390
+recover 15
+executed
+time: 391 group number: 14 leader count: 20
+time: 392 group number: 16 leader count: 20
+time: 393 group number: 16 leader count: 20
+time: 394 group number: 18 leader count: 20
+time: 395 group number: 18 leader count: 20
+nodo: 18 --> [9]
+executed
+time: 396 group number: 17 leader count: 20
+time: 397 group number: 17 leader count: 20
+time: 398 group number: 17 leader count: 19
+time: 399 group number: 17 leader count: 19
+executed
+time: 400 group number: 16 leader count: 19
+time: 401 group number: 16 leader count: 19
+time: 402 group number: 16 leader count: 19
+time: 403 group number: 16 leader count: 19
+time: 404 group number: 16 leader count: 19
+time: 405 group number: 17 leader count: 19
+executed
+time: 406 group number: 17 leader count: 19
+time: 407 group number: 17 leader count: 19
+time: 408 group number: 17 leader count: 19
+time: 409 group number: 17 leader count: 19
+time: 410 group number: 17 leader count: 19
+executed
+time: 411 group number: 15 leader count: 19
+time: 412 group number: 16 leader count: 19
+time: 413 group number: 16 leader count: 19
+time: 414 group number: 16 leader count: 19
+time: 415 group number: 16 leader count: 19
+nodo: 2 --> [8]
+executed
+time: 416 group number: 16 leader count: 19
+time: 417 group number: 16 leader count: 19
+time: 418 group number: 16 leader count: 18
+time: 419 group number: 16 leader count: 18
+time: 420 group number: 16 leader count: 18
+executed
+time: 421 group number: 16 leader count: 18
+time: 422 group number: 16 leader count: 18
+time: 423 group number: 16 leader count: 18
+time: 424 group number: 16 leader count: 18
+time: 425 group number: 16 leader count: 18
+executed
+time: 426 group number: 16 leader count: 18
+time: 427 group number: 16 leader count: 18
+time: 428 group number: 16 leader count: 18
+time: 429 group number: 16 leader count: 18
+time: 430 group number: 16 leader count: 18
+executed
+time: 431 group number: 16 leader count: 18
+time: 432 group number: 16 leader count: 18
+time: 433 group number: 16 leader count: 18
+time: 434 group number: 16 leader count: 18
+time: 435 group number: 16 leader count: 18
+time: 436 group number: 16 leader count: 18
+time: 437 group number: 16 leader count: 18
+time: 438 group number: 16 leader count: 18
+time: 439 group number: 16 leader count: 18
+time: 440 group number: 16 leader count: 18
+nodo: 7 --> [15]
+time: 441 group number: 16 leader count: 18
+time: 442 group number: 16 leader count: 18
+time: 443 group number: 16 leader count: 17
+time: 444 group number: 16 leader count: 17
+time: 445 group number: 16 leader count: 17
+executed
+time: 446 group number: 16 leader count: 17
+time: 447 group number: 16 leader count: 17
+time: 448 group number: 16 leader count: 17
+time: 449 group number: 16 leader count: 17
+time: 450 group number: 16 leader count: 17
+executed
+time: 451 group number: 16 leader count: 17
+time: 452 group number: 16 leader count: 17
+time: 453 group number: 16 leader count: 17
+time: 454 group number: 16 leader count: 17
+time: 455 group number: 16 leader count: 17
+executed
+time: 456 group number: 15 leader count: 17
+time: 457 group number: 16 leader count: 17
+time: 458 group number: 16 leader count: 17
+time: 459 group number: 15 leader count: 17
+time: 460 group number: 15 leader count: 17
+executed
+time: 461 group number: 16 leader count: 17
+time: 462 group number: 16 leader count: 17
+time: 463 group number: 16 leader count: 17
+time: 464 group number: 16 leader count: 17
+time: 465 group number: 16 leader count: 17
+executed
+time: 466 group number: 16 leader count: 17
+time: 467 group number: 18 leader count: 17
+time: 468 group number: 18 leader count: 17
+time: 469 group number: 18 leader count: 17
+time: 470 group number: 16 leader count: 17
+18 Coordinador no encontrado node: 9 time: 470
+7 Coordinador no encontrado node: 15 time: 470
+executed
+time: 471 group number: 16 leader count: 19
+time: 472 group number: 16 leader count: 19
+time: 473 group number: 17 leader count: 19
+time: 474 group number: 17 leader count: 19
+time: 475 group number: 16 leader count: 19
+executed
+time: 476 group number: 16 leader count: 19
+time: 477 group number: 16 leader count: 19
+time: 478 group number: 15 leader count: 19
+time: 479 group number: 14 leader count: 19
+time: 480 group number: 15 leader count: 19
+executed
+time: 481 group number: 15 leader count: 19
+time: 482 group number: 15 leader count: 19
+time: 483 group number: 16 leader count: 19
+time: 484 group number: 16 leader count: 19
+time: 485 group number: 14 leader count: 19
+executed
+time: 486 group number: 15 leader count: 19
+time: 487 group number: 15 leader count: 19
+time: 488 group number: 15 leader count: 19
+time: 489 group number: 15 leader count: 19
+time: 490 group number: 15 leader count: 19
+2 Coordinador no encontrado node: 8 time: 490
+executed
+time: 491 group number: 15 leader count: 20
+time: 492 group number: 16 leader count: 20
+time: 493 group number: 15 leader count: 20
+time: 494 group number: 15 leader count: 20
+time: 495 group number: 16 leader count: 20
+nodo: 18 --> [12]
+executed
+time: 496 group number: 16 leader count: 20
+time: 497 group number: 16 leader count: 20
+time: 498 group number: 16 leader count: 19
+time: 499 group number: 15 leader count: 19
+executed
+time: 500 group number: 15 leader count: 19
+time: 501 group number: 15 leader count: 19
+time: 502 group number: 16 leader count: 19
+time: 503 group number: 16 leader count: 19
+time: 504 group number: 16 leader count: 19
+time: 505 group number: 16 leader count: 19
+executed
+time: 506 group number: 16 leader count: 19
+time: 507 group number: 16 leader count: 19
+time: 508 group number: 15 leader count: 19
+time: 509 group number: 14 leader count: 19
+nodo: 1 --> [3]
+time: 510 group number: 14 leader count: 19
+executed
+time: 511 group number: 14 leader count: 19
+time: 512 group number: 15 leader count: 19
+time: 513 group number: 15 leader count: 19
+time: 514 group number: 15 leader count: 19
+time: 515 group number: 17 leader count: 19
+nodo: 2 --> [7]
+executed
+time: 516 group number: 17 leader count: 19
+time: 517 group number: 17 leader count: 19
+time: 518 group number: 16 leader count: 19
+time: 519 group number: 15 leader count: 19
+recover 1
+time: 520 group number: 15 leader count: 19
+nodo: 3 --> [16]
+executed
+time: 521 group number: 15 leader count: 19
+time: 522 group number: 15 leader count: 19
+time: 523 group number: 15 leader count: 18
+time: 524 group number: 15 leader count: 18
+time: 525 group number: 14 leader count: 18
+recover 2
+executed
+time: 526 group number: 14 leader count: 18
+time: 527 group number: 15 leader count: 18
+time: 528 group number: 13 leader count: 18
+time: 529 group number: 13 leader count: 18
+time: 530 group number: 13 leader count: 18
+executed
+time: 531 group number: 13 leader count: 18
+time: 532 group number: 14 leader count: 18
+time: 533 group number: 13 leader count: 18
+time: 534 group number: 14 leader count: 18
+time: 535 group number: 14 leader count: 18
+nodo: 6 --> [14, 4]
+executed
+time: 536 group number: 14 leader count: 18
+time: 537 group number: 14 leader count: 18
+time: 538 group number: 14 leader count: 17
+time: 539 group number: 14 leader count: 16
+time: 540 group number: 14 leader count: 16
+executed
+time: 541 group number: 14 leader count: 16
+time: 542 group number: 15 leader count: 16
+time: 543 group number: 15 leader count: 16
+time: 544 group number: 14 leader count: 16
+time: 545 group number: 14 leader count: 16
+nodo: 8 --> [11]
+executed
+time: 546 group number: 14 leader count: 16
+time: 547 group number: 14 leader count: 16
+time: 548 group number: 14 leader count: 15
+time: 549 group number: 14 leader count: 15
+time: 550 group number: 14 leader count: 15
+nodo: 9 --> [18]
+3 Coordinador no encontrado node: 16 time: 550
+time: 551 group number: 14 leader count: 16
+time: 552 group number: 15 leader count: 16
+time: 553 group number: 15 leader count: 15
+time: 554 group number: 15 leader count: 15
+time: 555 group number: 15 leader count: 15
+time: 556 group number: 15 leader count: 15
+time: 557 group number: 15 leader count: 15
+time: 558 group number: 15 leader count: 15
+time: 559 group number: 15 leader count: 15
+time: 560 group number: 15 leader count: 15
+executed
+time: 561 group number: 15 leader count: 15
+time: 562 group number: 15 leader count: 15
+time: 563 group number: 15 leader count: 15
+time: 564 group number: 15 leader count: 15
+time: 565 group number: 15 leader count: 15
+time: 566 group number: 15 leader count: 15
+time: 567 group number: 15 leader count: 15
+time: 568 group number: 15 leader count: 15
+time: 569 group number: 16 leader count: 15
+time: 570 group number: 16 leader count: 15
+executed
+time: 571 group number: 16 leader count: 15
+time: 572 group number: 17 leader count: 15
+time: 573 group number: 17 leader count: 15
+time: 574 group number: 17 leader count: 15
+time: 575 group number: 17 leader count: 15
+executed
+time: 576 group number: 17 leader count: 15
+time: 577 group number: 16 leader count: 15
+time: 578 group number: 16 leader count: 15
+time: 579 group number: 15 leader count: 15
+time: 580 group number: 16 leader count: 15
+executed
+time: 581 group number: 16 leader count: 15
+time: 582 group number: 16 leader count: 15
+time: 583 group number: 16 leader count: 15
+time: 584 group number: 16 leader count: 15
+time: 585 group number: 17 leader count: 15
+time: 586 group number: 17 leader count: 15
+time: 587 group number: 18 leader count: 15
+time: 588 group number: 18 leader count: 15
+time: 589 group number: 15 leader count: 15
+time: 590 group number: 14 leader count: 15
+8 Coordinador no encontrado node: 11 time: 590
+9 Coordinador no encontrado node: 12 time: 590
+executed
+time: 591 group number: 15 leader count: 17
+time: 592 group number: 15 leader count: 17
+time: 593 group number: 15 leader count: 17
+time: 594 group number: 14 leader count: 17
+time: 595 group number: 14 leader count: 17
+executed
+time: 596 group number: 15 leader count: 17
+time: 597 group number: 15 leader count: 17
+time: 598 group number: 16 leader count: 17
+time: 599 group number: 16 leader count: 17
+executed
+time: 600 group number: 15 leader count: 17
+time: 601 group number: 15 leader count: 17
+time: 602 group number: 15 leader count: 17
+time: 603 group number: 15 leader count: 17
+time: 604 group number: 14 leader count: 17
+time: 605 group number: 13 leader count: 17
+executed
+time: 606 group number: 12 leader count: 17
+time: 607 group number: 12 leader count: 17
+time: 608 group number: 11 leader count: 17
+time: 609 group number: 13 leader count: 17
+nodo: 1 --> [8]
+time: 610 group number: 11 leader count: 17
+executed
+9 Coordinador no encontrado node: 18 time: 610
+time: 611 group number: 11 leader count: 18
+time: 612 group number: 11 leader count: 18
+time: 613 group number: 12 leader count: 17
+time: 614 group number: 12 leader count: 17
+time: 615 group number: 13 leader count: 17
+nodo: 2 --> [9, 15]
+time: 616 group number: 13 leader count: 17
+time: 617 group number: 13 leader count: 17
+time: 618 group number: 14 leader count: 15
+time: 619 group number: 14 leader count: 15
+time: 620 group number: 13 leader count: 15
+executed
+time: 621 group number: 13 leader count: 15
+time: 622 group number: 13 leader count: 15
+time: 623 group number: 13 leader count: 15
+time: 624 group number: 13 leader count: 15
+time: 625 group number: 13 leader count: 15
+executed
+time: 626 group number: 13 leader count: 15
+time: 627 group number: 13 leader count: 15
+time: 628 group number: 13 leader count: 15
+time: 629 group number: 12 leader count: 15
+time: 630 group number: 12 leader count: 15
+6 Coordinador no encontrado node: 4 time: 630
+nodo: 5 --> [11]
+executed
+6 Coordinador no encontrado node: 14 time: 630
+time: 631 group number: 10 leader count: 17
+time: 632 group number: 11 leader count: 17
+time: 633 group number: 11 leader count: 16
+time: 634 group number: 11 leader count: 16
+time: 635 group number: 11 leader count: 16
+time: 636 group number: 11 leader count: 16
+time: 637 group number: 11 leader count: 16
+time: 638 group number: 11 leader count: 16
+time: 639 group number: 12 leader count: 16
+time: 640 group number: 12 leader count: 16
+time: 641 group number: 12 leader count: 16
+time: 642 group number: 12 leader count: 16
+time: 643 group number: 12 leader count: 16
+time: 644 group number: 12 leader count: 16
+time: 645 group number: 12 leader count: 16
+executed
+time: 646 group number: 12 leader count: 16
+time: 647 group number: 13 leader count: 16
+time: 648 group number: 13 leader count: 16
+time: 649 group number: 13 leader count: 16
+time: 650 group number: 13 leader count: 16
+time: 651 group number: 13 leader count: 16
+time: 652 group number: 13 leader count: 16
+time: 653 group number: 13 leader count: 16
+time: 654 group number: 13 leader count: 16
+time: 655 group number: 13 leader count: 16
+nodo: 10 --> [6, 20]
+executed
+time: 656 group number: 13 leader count: 16
+time: 657 group number: 14 leader count: 16
+time: 658 group number: 14 leader count: 14
+time: 659 group number: 14 leader count: 14
+time: 660 group number: 14 leader count: 14
+executed
+time: 661 group number: 14 leader count: 14
+time: 662 group number: 13 leader count: 14
+time: 663 group number: 13 leader count: 14
+time: 664 group number: 13 leader count: 14
+time: 665 group number: 13 leader count: 14
+executed
+time: 666 group number: 13 leader count: 14
+time: 667 group number: 13 leader count: 14
+time: 668 group number: 13 leader count: 14
+time: 669 group number: 13 leader count: 14
+time: 670 group number: 13 leader count: 14
+1 Coordinador no encontrado node: 8 time: 670
+time: 671 group number: 13 leader count: 15
+time: 672 group number: 13 leader count: 15
+time: 673 group number: 13 leader count: 15
+time: 674 group number: 13 leader count: 15
+time: 675 group number: 12 leader count: 15
+executed
+time: 676 group number: 13 leader count: 15
+time: 677 group number: 13 leader count: 15
+time: 678 group number: 13 leader count: 15
+time: 679 group number: 13 leader count: 15
+time: 680 group number: 13 leader count: 15
+executed
+time: 681 group number: 13 leader count: 15
+time: 682 group number: 13 leader count: 15
+time: 683 group number: 13 leader count: 15
+time: 684 group number: 13 leader count: 15
+time: 685 group number: 13 leader count: 15
+executed
+time: 686 group number: 13 leader count: 15
+time: 687 group number: 12 leader count: 15
+time: 688 group number: 12 leader count: 15
+time: 689 group number: 12 leader count: 15
+time: 690 group number: 12 leader count: 15
+nodo: 17 --> [19]
+executed
+time: 691 group number: 12 leader count: 15
+time: 692 group number: 12 leader count: 15
+time: 693 group number: 12 leader count: 14
+time: 694 group number: 12 leader count: 14
+time: 695 group number: 12 leader count: 14
+time: 696 group number: 13 leader count: 14
+time: 697 group number: 13 leader count: 14
+time: 698 group number: 13 leader count: 14
+time: 699 group number: 14 leader count: 14
+executed
+time: 700 group number: 14 leader count: 14
+time: 701 group number: 14 leader count: 14
+time: 702 group number: 14 leader count: 14
+time: 703 group number: 14 leader count: 14
+time: 704 group number: 13 leader count: 14
+time: 705 group number: 13 leader count: 14
+executed
+time: 706 group number: 13 leader count: 14
+time: 707 group number: 13 leader count: 14
+time: 708 group number: 14 leader count: 14
+time: 709 group number: 14 leader count: 14
+nodo: 1 --> [2]
+time: 710 group number: 14 leader count: 14
+executed
+2 Coordinador no encontrado node: 9 time: 710
+2 Coordinador no encontrado node: 15 time: 710
+time: 711 group number: 14 leader count: 16
+time: 712 group number: 14 leader count: 16
+time: 713 group number: 14 leader count: 16
+time: 714 group number: 13 leader count: 16
+time: 715 group number: 12 leader count: 16
+nodo: 2 --> [13]
+executed
+time: 716 group number: 12 leader count: 16
+time: 717 group number: 11 leader count: 16
+time: 718 group number: 11 leader count: 15
+time: 719 group number: 11 leader count: 15
+recover 1
+time: 720 group number: 11 leader count: 15
+executed
+time: 721 group number: 11 leader count: 15
+time: 722 group number: 12 leader count: 15
+time: 723 group number: 12 leader count: 15
+time: 724 group number: 12 leader count: 15
+time: 725 group number: 12 leader count: 15
+time: 726 group number: 13 leader count: 15
+time: 727 group number: 13 leader count: 15
+time: 728 group number: 13 leader count: 15
+time: 729 group number: 13 leader count: 15
+time: 730 group number: 14 leader count: 15
+nodo: 5 --> [9, 15, 18]
+executed
+5 Coordinador no encontrado node: 11 time: 730
+time: 731 group number: 14 leader count: 16
+time: 732 group number: 13 leader count: 16
+time: 733 group number: 12 leader count: 15
+time: 734 group number: 14 leader count: 15
+time: 735 group number: 13 leader count: 15
+executed
+time: 736 group number: 13 leader count: 15
+time: 737 group number: 14 leader count: 15
+time: 738 group number: 14 leader count: 15
+time: 739 group number: 14 leader count: 15
+time: 740 group number: 14 leader count: 15
+recover 5
+executed
+time: 741 group number: 15 leader count: 15
+time: 742 group number: 15 leader count: 15
+time: 743 group number: 15 leader count: 15
+time: 744 group number: 14 leader count: 15
+time: 745 group number: 14 leader count: 15
+executed
+time: 746 group number: 14 leader count: 15
+time: 747 group number: 16 leader count: 15
+time: 748 group number: 16 leader count: 15
+time: 749 group number: 16 leader count: 15
+time: 750 group number: 16 leader count: 15
+10 Coordinador no encontrado node: 6 time: 750
+nodo: 9 --> [15]
+executed
+5 Coordinador no encontrado node: 18 time: 750
+17 Coordinador no encontrado node: 19 time: 750
+10 Coordinador no encontrado node: 20 time: 750
+time: 751 group number: 16 leader count: 19
+time: 752 group number: 17 leader count: 19
+time: 753 group number: 16 leader count: 18
+time: 754 group number: 16 leader count: 18
+time: 755 group number: 16 leader count: 18
+nodo: 10 --> [4]
+executed
+time: 756 group number: 16 leader count: 18
+time: 757 group number: 16 leader count: 18
+time: 758 group number: 16 leader count: 18
+time: 759 group number: 16 leader count: 18
+time: 760 group number: 16 leader count: 18
+nodo: 11 --> [20]
+time: 761 group number: 16 leader count: 18
+time: 762 group number: 16 leader count: 18
+time: 763 group number: 16 leader count: 17
+time: 764 group number: 16 leader count: 17
+time: 765 group number: 16 leader count: 17
+recover 10
+nodo: 12 --> [10]
+executed
+time: 766 group number: 16 leader count: 17
+time: 767 group number: 16 leader count: 17
+time: 768 group number: 16 leader count: 16
+time: 769 group number: 16 leader count: 16
+time: 770 group number: 16 leader count: 16
+2 Coordinador no encontrado node: 13 time: 770
+time: 771 group number: 16 leader count: 17
+time: 772 group number: 15 leader count: 17
+time: 773 group number: 14 leader count: 17
+time: 774 group number: 14 leader count: 17
+time: 775 group number: 14 leader count: 17
+executed
+time: 776 group number: 14 leader count: 17
+time: 777 group number: 14 leader count: 17
+time: 778 group number: 13 leader count: 17
+time: 779 group number: 12 leader count: 17
+time: 780 group number: 12 leader count: 17
+executed
+time: 781 group number: 12 leader count: 17
+time: 782 group number: 11 leader count: 17
+time: 783 group number: 10 leader count: 17
+time: 784 group number: 12 leader count: 17
+time: 785 group number: 13 leader count: 17
+nodo: 16 --> [11]
+executed
+time: 786 group number: 13 leader count: 17
+time: 787 group number: 13 leader count: 17
+time: 788 group number: 13 leader count: 17
+time: 789 group number: 13 leader count: 17
+time: 790 group number: 12 leader count: 17
+nodo: 17 --> [1]
+executed
+time: 791 group number: 13 leader count: 17
+time: 792 group number: 13 leader count: 17
+time: 793 group number: 13 leader count: 17
+time: 794 group number: 13 leader count: 17
+time: 795 group number: 13 leader count: 17
+recover 16
+time: 796 group number: 13 leader count: 17
+time: 797 group number: 13 leader count: 17
+time: 798 group number: 13 leader count: 17
+time: 799 group number: 13 leader count: 17
+executed
+time: 800 group number: 13 leader count: 17
+recover 17
+time: 801 group number: 13 leader count: 17
+time: 802 group number: 13 leader count: 17
+time: 803 group number: 13 leader count: 17
+time: 804 group number: 13 leader count: 17
+time: 805 group number: 13 leader count: 17
+executed
+time: 806 group number: 13 leader count: 17
+time: 807 group number: 13 leader count: 17
+time: 808 group number: 13 leader count: 17
+time: 809 group number: 13 leader count: 17
+nodo: 1 --> [12]
+time: 810 group number: 13 leader count: 17
+executed
+time: 811 group number: 13 leader count: 17
+time: 812 group number: 13 leader count: 17
+time: 813 group number: 12 leader count: 16
+time: 814 group number: 12 leader count: 16
+time: 815 group number: 12 leader count: 16
+executed
+time: 816 group number: 11 leader count: 16
+time: 817 group number: 11 leader count: 16
+time: 818 group number: 11 leader count: 16
+time: 819 group number: 11 leader count: 16
+time: 820 group number: 11 leader count: 16
+executed
+time: 821 group number: 12 leader count: 16
+time: 822 group number: 12 leader count: 16
+time: 823 group number: 11 leader count: 16
+time: 824 group number: 12 leader count: 16
+time: 825 group number: 13 leader count: 16
+executed
+time: 826 group number: 13 leader count: 16
+time: 827 group number: 14 leader count: 16
+time: 828 group number: 14 leader count: 16
+time: 829 group number: 14 leader count: 16
+time: 830 group number: 14 leader count: 16
+executed
+time: 831 group number: 15 leader count: 16
+time: 832 group number: 14 leader count: 16
+time: 833 group number: 14 leader count: 16
+time: 834 group number: 13 leader count: 16
+time: 835 group number: 13 leader count: 16
+nodo: 6 --> [13]
+executed
+time: 836 group number: 14 leader count: 16
+time: 837 group number: 14 leader count: 16
+time: 838 group number: 14 leader count: 15
+time: 839 group number: 13 leader count: 15
+time: 840 group number: 12 leader count: 15
+executed
+time: 841 group number: 11 leader count: 15
+time: 842 group number: 12 leader count: 15
+time: 843 group number: 14 leader count: 15
+time: 844 group number: 14 leader count: 15
+time: 845 group number: 14 leader count: 15
+time: 846 group number: 14 leader count: 15
+time: 847 group number: 14 leader count: 15
+time: 848 group number: 15 leader count: 15
+time: 849 group number: 15 leader count: 15
+time: 850 group number: 15 leader count: 15
+nodo: 9 --> [1, 17, 19]
+executed
+1 Coordinador no encontrado node: 12 time: 850
+9 Coordinador no encontrado node: 15 time: 850
+11 Coordinador no encontrado node: 20 time: 850
+time: 851 group number: 16 leader count: 18
+time: 852 group number: 16 leader count: 18
+time: 853 group number: 17 leader count: 17
+time: 854 group number: 17 leader count: 17
+time: 855 group number: 16 leader count: 17
+executed
+time: 856 group number: 17 leader count: 17
+time: 857 group number: 17 leader count: 17
+time: 858 group number: 18 leader count: 17
+time: 859 group number: 19 leader count: 17
+time: 860 group number: 19 leader count: 17
+time: 861 group number: 18 leader count: 17
+time: 862 group number: 18 leader count: 17
+time: 863 group number: 18 leader count: 17
+time: 864 group number: 18 leader count: 17
+time: 865 group number: 17 leader count: 17
+executed
+time: 866 group number: 16 leader count: 17
+time: 867 group number: 16 leader count: 17
+time: 868 group number: 15 leader count: 17
+time: 869 group number: 15 leader count: 17
+time: 870 group number: 14 leader count: 17
+6 Coordinador no encontrado node: 13 time: 870
+executed
+9 Coordinador no encontrado node: 17 time: 870
+time: 871 group number: 14 leader count: 19
+time: 872 group number: 15 leader count: 19
+time: 873 group number: 14 leader count: 19
+time: 874 group number: 15 leader count: 19
+time: 875 group number: 16 leader count: 19
+executed
+time: 876 group number: 15 leader count: 19
+time: 877 group number: 15 leader count: 19
+time: 878 group number: 15 leader count: 19
+time: 879 group number: 17 leader count: 19
+time: 880 group number: 17 leader count: 19
+nodo: 15 --> [3]
+executed
+time: 881 group number: 17 leader count: 19
+time: 882 group number: 17 leader count: 19
+time: 883 group number: 17 leader count: 19
+time: 884 group number: 17 leader count: 19
+time: 885 group number: 17 leader count: 19
+executed
+time: 886 group number: 17 leader count: 19
+time: 887 group number: 17 leader count: 19
+time: 888 group number: 16 leader count: 19
+time: 889 group number: 16 leader count: 19
+time: 890 group number: 15 leader count: 19
+1 Coordinador no encontrado node: 10 time: 890
+recover 15
+nodo: 17 --> [13]
+executed
+time: 891 group number: 15 leader count: 20
+time: 892 group number: 15 leader count: 20
+time: 893 group number: 15 leader count: 19
+time: 894 group number: 15 leader count: 19
+time: 895 group number: 15 leader count: 19
+executed
+time: 896 group number: 15 leader count: 19
+time: 897 group number: 15 leader count: 19
+time: 898 group number: 15 leader count: 19
+time: 899 group number: 14 leader count: 19
+executed
+time: 900 group number: 14 leader count: 19
+nodo: 19 --> [8, 10]
+time: 901 group number: 14 leader count: 19
+time: 902 group number: 14 leader count: 19
+time: 903 group number: 14 leader count: 17
+time: 904 group number: 14 leader count: 17
+time: 905 group number: 14 leader count: 17
+executed
+time: 906 group number: 14 leader count: 17
+time: 907 group number: 14 leader count: 17
+time: 908 group number: 14 leader count: 17
+time: 909 group number: 14 leader count: 17
+nodo: 1 --> [4]
+time: 910 group number: 14 leader count: 17
+executed
+time: 911 group number: 14 leader count: 17
+time: 912 group number: 14 leader count: 17
+time: 913 group number: 14 leader count: 16
+time: 914 group number: 15 leader count: 16
+time: 915 group number: 15 leader count: 16
+time: 916 group number: 15 leader count: 16
+time: 917 group number: 15 leader count: 16
+time: 918 group number: 14 leader count: 16
+time: 919 group number: 14 leader count: 16
+recover 1
+time: 920 group number: 14 leader count: 16
+executed
+time: 921 group number: 14 leader count: 16
+time: 922 group number: 14 leader count: 16
+time: 923 group number: 14 leader count: 16
+time: 924 group number: 14 leader count: 16
+time: 925 group number: 14 leader count: 16
+executed
+time: 926 group number: 14 leader count: 16
+time: 927 group number: 14 leader count: 16
+time: 928 group number: 14 leader count: 16
+time: 929 group number: 14 leader count: 16
+time: 930 group number: 14 leader count: 16
+1 Coordinador no encontrado node: 4 time: 930
+executed
+time: 931 group number: 14 leader count: 17
+time: 932 group number: 14 leader count: 17
+time: 933 group number: 14 leader count: 17
+time: 934 group number: 14 leader count: 17
+time: 935 group number: 14 leader count: 17
+nodo: 6 --> [16]
+time: 936 group number: 14 leader count: 17
+time: 937 group number: 14 leader count: 17
+time: 938 group number: 14 leader count: 16
+time: 939 group number: 14 leader count: 16
+time: 940 group number: 14 leader count: 16
+nodo: 7 --> [14]
+executed
+time: 941 group number: 14 leader count: 16
+time: 942 group number: 14 leader count: 16
+time: 943 group number: 14 leader count: 15
+time: 944 group number: 14 leader count: 15
+time: 945 group number: 15 leader count: 15
+time: 946 group number: 15 leader count: 15
+time: 947 group number: 15 leader count: 15
+time: 948 group number: 15 leader count: 15
+time: 949 group number: 14 leader count: 15
+time: 950 group number: 14 leader count: 15
+executed
+time: 951 group number: 13 leader count: 15
+time: 952 group number: 13 leader count: 15
+time: 953 group number: 13 leader count: 15
+time: 954 group number: 13 leader count: 15
+time: 955 group number: 12 leader count: 15
+executed
+time: 956 group number: 12 leader count: 15
+time: 957 group number: 13 leader count: 15
+time: 958 group number: 12 leader count: 15
+time: 959 group number: 13 leader count: 15
+time: 960 group number: 13 leader count: 15
+time: 961 group number: 13 leader count: 15
+time: 962 group number: 12 leader count: 15
+time: 963 group number: 12 leader count: 15
+time: 964 group number: 12 leader count: 15
+time: 965 group number: 12 leader count: 15
+nodo: 12 --> [9]
+time: 966 group number: 12 leader count: 15
+time: 967 group number: 12 leader count: 15
+time: 968 group number: 13 leader count: 15
+time: 969 group number: 12 leader count: 15
+time: 970 group number: 12 leader count: 15
+19 Coordinador no encontrado node: 8 time: 970
+executed
+time: 971 group number: 12 leader count: 16
+time: 972 group number: 12 leader count: 16
+time: 973 group number: 12 leader count: 16
+time: 974 group number: 14 leader count: 16
+time: 975 group number: 13 leader count: 16
+recover 12
+time: 976 group number: 12 leader count: 16
+time: 977 group number: 12 leader count: 16
+time: 978 group number: 13 leader count: 16
+time: 979 group number: 13 leader count: 16
+time: 980 group number: 14 leader count: 16
+nodo: 15 --> [19]
+executed
+time: 981 group number: 14 leader count: 16
+time: 982 group number: 13 leader count: 16
+time: 983 group number: 13 leader count: 15
+time: 984 group number: 14 leader count: 15
+time: 985 group number: 14 leader count: 15
+executed
+time: 986 group number: 15 leader count: 15
+time: 987 group number: 15 leader count: 15
+time: 988 group number: 15 leader count: 15
+time: 989 group number: 14 leader count: 15
+time: 990 group number: 16 leader count: 15
+17 Coordinador no encontrado node: 13 time: 990
+6 Coordinador no encontrado node: 16 time: 990
+time: 991 group number: 17 leader count: 17
+time: 992 group number: 16 leader count: 17
+time: 993 group number: 16 leader count: 17
+time: 994 group number: 15 leader count: 17
+time: 995 group number: 15 leader count: 17
+executed
+time: 996 group number: 15 leader count: 17
+time: 997 group number: 14 leader count: 17
+time: 998 group number: 15 leader count: 17
+time: 999 group number: 14 leader count: 17
